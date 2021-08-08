@@ -54109,7 +54109,7 @@ $0:function(){B.KY()},
 $S:4}
 O.xT.prototype={
 S:function(a,b){var s=null,r=t.E,q=T.OI(M.j4(s,T.yR(H.a([T.OI(T.ug(C.W,H.a([T.aas(U.a9U("https://picsum.photos/id/1000/800/800"),0.5),new T.fA(C.W,s,s,T.yR(H.a([L.ip("I'm Douglas.\nA software developer",A.ir(s,s,C.ts,s,s,s,s,s,s,s,s,24,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new V.qg("Drop me a line",L.Qc(C.nB),new O.M5(),s)],r),C.cb,C.iX),s)],r),C.bV),1)],r),C.b5,C.aY),C.w,C.j,s,s,s,s,s,s,s,s),1),p=T.jF(s,100,s),o=L.ip("My Projects",A.ir(s,s,C.A,s,s,s,s,s,s,s,s,23,s,C.i2,s,s,!0,s,s,s,s,s,s,s),s,s)
-return T.tH(H.a([q,T.OI(T.yR(H.a([p,new T.dx(C.ng,o,s),T.OI(new B.At(new G.Xa(new O.M6(this),4,!0,!0,!0),s,C.o,!1,s,!0,C.kB,!1,s,4,C.b6,C.xz,s,C.aj,s),1)],r),C.cb,C.aY),1),T.jF(s,s,100)],r),C.cc,C.iY,C.cs)}}
+return T.tH(H.a([q,T.OI(T.yR(H.a([p,new T.dx(C.ng,o,s),T.OI(new B.At(new G.Xa(new O.M6(this),4,!0,!0,!0),s,C.o,!1,s,!0,C.kB,!1,s,4,C.b6,C.xz,s,C.aj,s),1)],r),C.cb,C.aY),1),T.jF(s,s,20)],r),C.cc,C.iY,C.cs)}}
 O.M5.prototype={
 $0:function(){B.KY()},
 $S:4}
